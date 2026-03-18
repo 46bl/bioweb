@@ -1,5 +1,5 @@
 const config = {
-    discordID: "1416589055017357485",
+    discordID: "",
 
     background: {
         type: "gif", //image video gif
